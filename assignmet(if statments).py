@@ -2,7 +2,7 @@
 """
 Created on Tue Jul  7 10:33:11 2020
 
-@author: MADCAT
+@author: E2060-Fatih(MADCAT)
 """
 
 my_name = ("Fatih",)
